@@ -95,25 +95,25 @@ img{
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-    /* .example {background: red;} */
+    .container {background: red;}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-    /* .example {background: green;} */
+    .container {background:lightblue;}
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-    /* .example {background: blue;} */
+    .container {background:lightseagreen;}
 } 
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
-    /* .example {background: orange;} */
+    .container {background:lightgoldenrodyellow;}
 } 
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-    /* .example {background: pink;} */
+    .container {background:black;}
 }
